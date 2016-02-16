@@ -1,6 +1,6 @@
 # Site settings
-baseurl = "http://my-awesome-site.com/"
-languageCode = "en-us"
+baseurl = "http://rasmuskuschel.de/"
+languageCode = "de-De"
 title = "Hugo Freelancer Theme"
 theme = "hugo-freelancer-theme"
 
